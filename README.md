@@ -4,7 +4,7 @@ Welcome to my GitHub profile, I'm a highly motivated iOS engineer with a passion
 
 <p align="center"
  <a href="https://www.linkedin.com/in/benjamin-prentiss/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/116034508/206894468-da55e464-088a-4089-9718-6f44b76093bb.png
-"/>"/>" alt="Javascript" height="40" style="vertical-align:top; margin:4px; filter:invert(1)"></a>
+"/>"/>" alt="Python" height="40" style="vertical-align:top; margin:4px; filter:invert(1)"></a>
 </p>
 
 <br />
