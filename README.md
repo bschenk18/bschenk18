@@ -6,7 +6,7 @@ Welcome to my GitHub profile, I'm a highly motivated iOS engineer with a passion
 
 Find Me On:
 <p align="center">
-<a href="https://www.linkedin.com/in/benjamin-prentiss/"> <img src="https://icongr.am/clarity/email.svg?size=40&color=ffffff" alt="Email" height="40" color=#fff style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/benjamin-prentiss/"> <img src="https://icongr.am/devicon/linkedin-original.svg?size=40&color=ffffff" alt="Email" height="40" color=#fff style="vertical-align:top; margin:4px"></a>
 <a href="mailto:bschenk18@yahoo.com"> <img src="https://icongr.am/clarity/email.svg?size=40&color=ffffff" alt="Email" height="40" color=#fff style="vertical-align:top; margin:4px"></a>
 </p>
 
@@ -20,9 +20,8 @@ Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px"/> -->
+<img src="https://icongr.am/feather/github.svg?size=40&color=ffffff" alt="GitHub" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="Heroku" height="40" style="vertical-align:top; margin:4px"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" alt="Objective-C" height="40" style="vertical-align:top; margin:4px"/>
