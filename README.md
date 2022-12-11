@@ -6,7 +6,7 @@ Welcome to my GitHub profile, I'm a highly motivated iOS engineer with a passion
 
 <p align="center"
 <a href="https://www.linkedin.com/in/benjamin-prentiss/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"/></a>
- <a href="mailto:bschenk18@yahoo.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" color=#fff style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:bschenk18@yahoo.com"> <img src="https://icongr.am/clarity/email.svg?size=40&color=ffffff" alt="Python" height="40" color=#fff style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
