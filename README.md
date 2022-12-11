@@ -29,4 +29,5 @@ Welcome to my GitHub profile, I'm a highly motivated iOS engineer with a passion
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="XCode" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://icongr.am/devicon/heroku-original.svg?size=40&color=ffffff" alt="Git" height="40" style="vertical-align:top; margin:4px"/>
 </p>
