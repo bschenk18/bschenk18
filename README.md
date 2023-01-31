@@ -31,3 +31,5 @@ Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="40" style="vertical-align:top; margin:4px"/>
  <img src="https://icongr.am/devicon/heroku-original.svg?size=40&color=ffffff" alt="Git" height="40" style="vertical-align:top; margin:4px"/>
 </p>
+
+![Snake animation](https://github.com/{{bschenk18}}/{{bschenk18}}/blob/output/github-contribution-grid-snake.svg)
